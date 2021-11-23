@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Na Yujin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/KakaoTalk_20211105_122444269.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            : 00nyj@sookmyung.ac.kr
