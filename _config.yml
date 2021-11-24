@@ -107,8 +107,8 @@ author:
   bio              : "I'm studing about **computer science** in Sookmyung Woman University."
   location         : "Seoul, SouthKorea"
   email            : "00nyj@sookmyung.ac.kr" 00nyj@sookmyung.ac.kr
-  links            : "Click this"
-    - label: "Email: 00nyj@sookmyung.ac.kr"
+  links: "Click this"
+      label: "Email: 00nyj@sookmyung.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       url: "00nyj@sookmyung.ac.kr"
     - label: "Website"
@@ -120,10 +120,10 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub: nayujin-dev"
+      label: "GitHub: nayujin-dev"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nayujin-dev"
-    - label: "Instagram: myneww._.wwjean"
+      label: "Instagram: myneww._.wwjean"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/myneww._.wwjean"
 
@@ -136,7 +136,7 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+      label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nayujin-dev"
     - label: "GitLab"
@@ -145,7 +145,7 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
+      label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/myneww._.wwjean"
 
