@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NaYuJin's blog"
+title                    : "Yujin's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Na Yujin"
 description              : "An amazing website."
 url                      : "https://nayujin-dev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Na Yujin"
   avatar           : "/imgs/pie.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I'm studing about **computer science** in Sookmyung Woman University."
+  location         : "Seoul, SouthKorea"
   email            : 00nyj@sookmyung.ac.kr
   links:
-    - label: "Email"
+    - label: "Email: 00nyj@sookmyung.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "00nyj@sookmyung.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -120,12 +120,12 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "GitHub: nayujin-dev"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
+      # url: "https://github.com/nayujin-dev"
+    - label: "Instagram: myneww._.wwjean"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/myneww._.wwjean"
 
 # Site Footer
 footer:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/nayujin-dev"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://instagram.com/myneww._.wwjean"
 
 
 # Reading Files
