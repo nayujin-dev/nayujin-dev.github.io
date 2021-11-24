@@ -108,7 +108,7 @@ author:
   location         : "Seoul, SouthKorea"
   email            : "00nyj@sookmyung.ac.kr" 00nyj@sookmyung.ac.kr
   links: "Click this"
-      label: "Email: 00nyj@sookmyung.ac.kr"
+      label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "00nyj@sookmyung.ac.kr"
     - label: "Website"
