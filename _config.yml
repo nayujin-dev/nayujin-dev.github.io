@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Yujin's blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Portfolio & My daily life"
 name                     : "Na Yujin"
 description              : "An amazing website."
 url                      : "https://nayujin-dev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/imgs/calligraphy_03.gif"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -110,7 +110,7 @@ author:
   links: "Click this"
     - label: "Email: 00nyj@sookmyung.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "00nyj@sookmyung.ac.kr"
+      url: "00nyj@sookmyung.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub: nayujin-dev"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/nayujin-dev"
+      url: "https://github.com/nayujin-dev"
     - label: "Instagram: myneww._.wwjean"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/myneww._.wwjean"
+      url: "https://instagram.com/myneww._.wwjean"
 
 # Site Footer
 footer:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/nayujin-dev"
+      url: "https://github.com/nayujin-dev"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/myneww._.wwjean"
+      url: "https://instagram.com/myneww._.wwjean"
 
 
 # Reading Files
