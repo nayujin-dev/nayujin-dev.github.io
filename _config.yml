@@ -107,7 +107,7 @@ author:
   bio              : "I'm studing about **computer science** in Sookmyung Woman University."
   location         : "Seoul, SouthKorea"
   email            : 00nyj@sookmyung.ac.kr
-  links:
+  links: "Click this"
     - label: "Email: 00nyj@sookmyung.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       # url: "00nyj@sookmyung.ac.kr"
